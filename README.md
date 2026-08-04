@@ -15,7 +15,7 @@ copilot update
 copilot
 ```
 
-## Run
+## Run in Powershell
 
 ```powershell
 .\mvnw.cmd spring-boot:run
@@ -45,3 +45,7 @@ github.copilot.timeout=60s
 ```
 
 Run tests with `./mvnw test` (macOS/Linux) or `.\mvnw.cmd test` (Windows).
+
+## License
+
+Licensed under the [MIT License](LICENSE).
