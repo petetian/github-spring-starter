@@ -26,12 +26,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Match this to your project JDK if needed (17/21/etc.)
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: "17"
+          java-version: "25"
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
