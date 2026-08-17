@@ -32,7 +32,7 @@
 	</scm>
 	<properties>
 		<java.version>25</java.version>
-		<copilot-sdk.version>1.0.9-preview.3</copilot-sdk.version>
+		<copilot-sdk.version>1.0.11-preview.2</copilot-sdk.version>
 	</properties>
 	<dependencies>
 		<dependency>
